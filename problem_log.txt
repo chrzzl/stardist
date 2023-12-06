@@ -1,0 +1,128 @@
+(0, 404): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 76  75 913] is background.
+- Number of connected components: 2
+- Too large instace diameter: [ 37  17 137]
+(0, 412): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 64  70 728] is background.
+- Number of connected components: 2
+- Too large instace diameter: [ 11  14 890]
+(0, 416): 
+- Number of connected components: 2
+(0, 419): 
+- Ray distance from centroid is 0.
+- Centroid pixel [76 72 78] is background.
+- Number of connected components: 2
+(0, 433): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 69  87 164] is background.
+- Number of connected components: 2
+(0, 438): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 73  71 315] is background.
+- Number of connected components: 2
+(0, 447): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 66  81 362] is background.
+- Number of connected components: 2
+(0, 452): 
+- Number of connected components: 2
+(0, 457): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 69  66 797] is background.
+- Number of connected components: 2
+(0, 537): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 85  71 692] is background.
+- Number of connected components: 2
+- Too large instace diameter: [ 10  15 124]
+(0, 544): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 66  71 867] is background.
+- Number of connected components: 2
+- Too large instace diameter: [ 12  24 133]
+(0, 547): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 65  66 629] is background.
+- Number of connected components: 2
+- Too large instace diameter: [ 23  18 588]
+(1, 411): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 71  68 875] is background.
+- Number of connected components: 2
+- Too large instace diameter: [  9   9 881]
+(1, 412): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 65  71 870] is background.
+- Number of connected components: 2
+- Too large instace diameter: [  9  11 881]
+(1, 422): 
+- Ray distance from centroid is 0.
+- Centroid pixel [73 86 78] is background.
+- Number of connected components: 2
+(1, 425): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 76  75 126] is background.
+- Number of connected components: 2
+(1, 444): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 75  65 361] is background.
+- Number of connected components: 2
+(1, 451): 
+- Number of connected components: 2
+(1, 542): 
+- Number of connected components: 2
+- Too large instace diameter: [ 38  17 176]
+(1, 544): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 60  74 809] is background.
+- Number of connected components: 2
+- Too large instace diameter: [ 17  24 259]
+(1, 547): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 75  66 717] is background.
+- Number of connected components: 2
+- Too large instace diameter: [ 32  23 528]
+(2, 407): 
+- Number of connected components: 2
+(2, 410): 
+- Number of connected components: 2
+(2, 412): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 63  67 921] is background.
+- Number of connected components: 2
+- Too large instace diameter: [ 11  13 888]
+(2, 418): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 68  79 122] is background.
+- Number of connected components: 2
+(2, 426): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 64  73 117] is background.
+- Number of connected components: 2
+(2, 441): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 70  70 333] is background.
+- Number of connected components: 2
+(2, 444): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 68  65 350] is background.
+- Number of connected components: 2
+(2, 454): 
+- Number of connected components: 2
+- Too large instace diameter: [13 17 92]
+(2, 457): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 62  77 851] is background.
+- Number of connected components: 2
+- Too large instace diameter: [ 22  16 193]
+(2, 516): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 71  78 728] is background.
+- Number of connected components: 2
+- Too large instace diameter: [  9  46 726]
+(2, 548): 
+- Ray distance from centroid is 0.
+- Centroid pixel [ 74  74 381] is background.
+- Number of connected components: 2
